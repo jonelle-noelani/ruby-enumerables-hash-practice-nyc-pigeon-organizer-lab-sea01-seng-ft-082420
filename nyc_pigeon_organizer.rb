@@ -27,5 +27,4 @@ def nyc_pigeon_organizer(data)
   #     if ! a[name][key]
   #       a[name][key].Array
   #     end
-   binding.pry
   end
