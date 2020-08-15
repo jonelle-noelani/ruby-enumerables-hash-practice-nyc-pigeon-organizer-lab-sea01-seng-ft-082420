@@ -19,7 +19,7 @@ def nyc_pigeon_organizer(data)
    v.each do |inner_key, names|
     names.each do |name|
       if !a[name]
-      a[name] = { }
+      a[name].Hash
   #     if ! a[name][key]
   #       a[name][key].Array
   end
